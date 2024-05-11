@@ -1,0 +1,64 @@
+{
+  "Header": {
+    "title": "DevOPS Cloud Bootcamp"
+  },
+  "About": {
+    "integrity": "We stand behind everything we say and do. We embody this through practicing radical transparency, and the implementation of principles that form the most meaningful relationships.",
+    "excellence": "We are committed and in constant pursuit of self-improvement, delivering fidelity in everything that we do, thus providing the highest quality and value possible."
+  },
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Contact": {
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "instagram": "intagram.com"
+  },
+  "Features": [
+    {
+      "img": "img/features/docker.png",
+      "title": "Docker Course Program",
+      "text": "Introduction, Required Downloads and Installization. \nRunning Applications Inside Docker Containers.\nRunning Databases Inside Docker  Containers.\nDocker Networks and Microservices."
+    },
+    {
+      "img": "img/features/gitHub.png",
+      "title": "GitHub Course Program",
+      "text": "Introduction to GitHub.\nThe Basics of Adding and Commiting.\nCommits in Details.\nWorking with Branches."
+    },
+    {
+      "img": "img/features/aws.png",
+      "title": "AWS Course Program",
+      "text": "Data Engineering Fundamentals.\nStorage and Database.Network and Delivery.\nNetwork and Delivery.\nMachine Learning."
+    }
+  ]
+}
